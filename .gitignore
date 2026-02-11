@@ -1,0 +1,9 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Docker tar files
+*.tar
+
+# Mac system files
+.DS_Store
