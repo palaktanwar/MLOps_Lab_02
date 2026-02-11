@@ -10,7 +10,7 @@ docker build -t lab1:v1 .
 docker run lab1:v1
 ```
 
-### (Optional) Save image to file:
+### Save image to file:
 ```bash
 docker save lab1:v1 > my_image.tar
 ```
